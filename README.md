@@ -12,6 +12,7 @@
 <h2>📖 About me 👩‍💻 </h2>
 
 I'm a 20 y/o **math and computer science** student in [Universidad de Guanajuato](https://www.ugto.mx/) in collaboration with [CIMAT](https://www.cimat.mx/)
+
 Currently learning AI & MLLM development and exploring different programming languages.
 
 <br>
@@ -36,8 +37,11 @@ Currently learning AI & MLLM development and exploring different programming lan
     
 <h2>🌍 Languages </h2>
      Im fluent in 
+     
       🌞 English
+      
       🌝 Spanish
+      
       🌜 German (learning)
       
 <br><br>
