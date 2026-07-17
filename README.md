@@ -11,8 +11,7 @@
      ============================================ -->
 <h2>📖 About me 👩‍💻 </h2>
 
-I'm a 20 y/o math and computer science student in [<br>Universidad de Guanajuanto</br>](https://www.ugto.mx/) in collaboration with [<br>CIMAT</br>](https://www.cimat.mx/)
-
+I'm a 20 y/o **math and computer science** student in [Universidad de Guanajuato](https://www.ugto.mx/) in collaboration with [CIMAT](https://www.cimat.mx/)
 Currently learning AI & MLLM development and exploring different programming languages.
 
 <br>
