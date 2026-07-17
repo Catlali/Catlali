@@ -1,19 +1,19 @@
 <!-- ============================================
      WELCOME SECTION
      ============================================ -->
-<h1 align="center">👋 welcome!</h1>
-<h3 align="center">here's a little bit about me</h3>
+<h1 align="center">👋 Welcome! ✌️</h1>
+<h3 align="center">My name is Citlali and here's a little bit about me</h3>
 
 <br>
 
 <!-- ============================================
      ABOUT ME SECTION
      ============================================ -->
-<h2>📖 about me</h2>
+<h2>📖 About me 👩‍💻 </h2>
 
-I'm a 20 year old math and computer science student.
+I'm a 20 y/o math and computer science student in [<br>Universidad de Guanajuanto</br>](https://www.ugto.mx/) in collaboration with [<br>CIMAT</br>](https://www.cimat.mx/)
 
-Currently learning AI development and exploring different programming languages.
+Currently learning AI & MLLM development and exploring different programming languages.
 
 <br>
 
@@ -33,31 +33,32 @@ Currently learning AI development and exploring different programming languages.
       • I'm publishing a new series of tutorials and knowledge about math to help high school students and middle school students.
       
       • I'm continuing my own high school projects with teaching ASL for those who can't pay for classes in real life or just don't have the time or resources to have it in person.
-    </td>
+    
+</td>
     
     <!-- RIGHT COLUMN -->
-    <td width="50%" valign="top">
+<td width="50%" valign="top">
       <h2>🌍 my skills</h2>
       
       🇺🇸 English
       🇪🇸 Spanish
       🇩🇪 German (learning)
       
-      <br><br>
+<br><br>
       
-      <h2>📊 top languages by repository</h2>
+<h2>📊 top languages by repository</h2>
       
-      <!-- Dynamic GitHub Stats -->
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- Dynamic GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catlali&layout=compact&theme=radical" alt="Top Languages"/>
       </a>
       
-      <br><br>
+<br><br>
       
-      <h2>📁 stats of my repository</h2>
+<h2>📁 stats of my repository</h2>
       
-      <!-- Dynamic GitHub Stats -->
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- Dynamic GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=Catlali&show_icons=true&theme=radical" alt="GitHub Stats"/>
       </a>
     </td>
