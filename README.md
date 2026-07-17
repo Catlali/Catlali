@@ -23,30 +23,27 @@ Currently learning AI & MLLM development and exploring different programming lan
 <table>
   <tr>
     <!-- LEFT COLUMN -->
-    <td width="50%" valign="top">
-      <h2>⚡ what's going on right now?</h2>
+
+<h2> 📎What am i up to right now? 📎</h2>
       
-      • I'm creating a new game on Roblox and publishing how you can do it too! I love helping people learn and grow in the tech community.
-      
-      • I work creating websites for local businesses and helping them get online. Community is always my first priority.
-      
-      • I'm publishing a new series of tutorials and knowledge about math to help high school students and middle school students.
-      
-      • I'm continuing my own high school projects with teaching ASL for those who can't pay for classes in real life or just don't have the time or resources to have it in person.
+📎 I'm creating a new Roblox game and documenting the entire development process so others can learn how to build their own. I enjoy helping people develop their skills and grow within the tech community.
+
+📎 I build websites for local businesses, helping them establish a strong online presence. Supporting local communities and making technology more accessible is always my top priority.
+
+📎 I'm publishing a new series of tutorials covering mathematics for middle school and high school students, with the goal of making challenging concepts easier to understand.
+
+📎 I'm continuing one of my high school passion projects by creating free American Sign Language (ASL) lessons for people who can't afford traditional classes or don't have the time or access to attend them in person. My goal is to make ASL education more accessible to everyone.
+
     
-</td>
-    
-    <!-- RIGHT COLUMN -->
-<td width="50%" valign="top">
-      <h2>🌍 my skills</h2>
-      
-      🇺🇸 English
-      🇪🇸 Spanish
-      🇩🇪 German (learning)
+<h2>🌍 Languages </h2>
+     Im fluent in 
+      🌞 English
+      🌝 Spanish
+      🌜 German (learning)
       
 <br><br>
       
-<h2>📊 top languages by repository</h2>
+<h2>📊 Top languages in my repository</h2>
       
 <!-- Dynamic GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -67,10 +64,10 @@ Currently learning AI & MLLM development and exploring different programming lan
 
 <br>
 
-<!-- ============================================
-     PROGRAMS I USE SECTION
-     ============================================ -->
-<h2>💻 other programs I've used</h2>
+
+
+
+<h2>💻 other programs I've used 💻</h2>
 
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -107,7 +104,7 @@ Currently learning AI & MLLM development and exploring different programming lan
 <!-- ============================================
      CONNECT WITH ME
      ============================================ -->
-<h2>🔗 connect with me</h2>
+<h2>🔗 You can always connect with me 🔗</h2>
 
 <p align="center">
   <a href="https://github.com/Catlali">
@@ -134,5 +131,5 @@ Currently learning AI & MLLM development and exploring different programming lan
 </p>
 
 <p align="center">
-  <i>Building community · one line of code at a time</i>
+  <i>I enjoy helping my community · one line of code at a time</i>
 </p>
