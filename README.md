@@ -96,7 +96,7 @@ Currently learning AI & MLLM development and exploring different programming lan
   <a href="https://lua.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=lua" alt="Lua"/>
   </a>
-  <\p>
+  
   
    <h3 align="center">Game Development</h3>
 <p align="center">
@@ -115,7 +115,7 @@ Currently learning AI & MLLM development and exploring different programming lan
     <img src="https://skillicons.dev/icons?i=robloxstudio" alt="Roblox Studio"/>
   </a>
   
-<\p>
+
 
 <h3 align="center">Design and Creative</h3>
 <p align="center">
@@ -131,7 +131,7 @@ Currently learning AI & MLLM development and exploring different programming lan
   <a href="https://www.adobe.com/" target="_blank">
     <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
   </a>
-<\p>
+
      
 <h3 align="center">Development Tools</h3>
 <p align="center">
@@ -141,7 +141,6 @@ Currently learning AI & MLLM development and exploring different programming lan
        <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
   </a>
-</p>
   <a href="https://www.microsoft.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=windows" alt="Microsoft"/>
   </a>
