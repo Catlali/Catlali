@@ -66,7 +66,8 @@ Currently learning AI & MLLM development and exploring different programming lan
 <h2>💻 Tech Inventory 💻</h2>
 
 <table>
-     <h3>Languages & Frameworks</h3>
+     <h3 align="center">Languages & Frameworks</h3>
+     <p align="center">
 <a href="https://en.cppreference.com/c" target="_blank">
     <img src="https://skillicons.dev/icons?i=c" alt="C"/>
   </a>
@@ -85,54 +86,70 @@ Currently learning AI & MLLM development and exploring different programming lan
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
   </a>
-
-</table>
-
-<p align="center">
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=git" />
+   <a href="https://html.spec.whatwg.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
   </a>
-</p>
-
-
-
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+ <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="Css"/>
   </a>
+  
+  <a href="https://lua.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=lua" alt="Lua"/>
+  </a>
+  <\p>
+  
+   <h3 align="center">Game Development</h3>
+<p align="center">
+     
    
- 
- 
-  <!-- NEW: Blender -->
   <a href="https://www.blender.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+    <img src="https://skillicons.dev/icons?i=blender" alt="Blender"/>
   </a>
+   <a href="https://www.unrealengine.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine"/>
+  </a>
+  <a href="https://unity.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity"/>
+  </a>
+   <a href="https://www.roblox.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=robloxstudio" alt="Roblox Studio"/>
+  </a>
+  
+<\p>
+
+<h3 align="center">Design and Creative</h3>
+<p align="center">
+     
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
   </a>
   <a href="https://www.notion.so/" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+    <img src="https://skillicons.dev/icons?i=notion" alt="Notion"/>
   </a>
   
   <!-- NEW: Adobe -->
   <a href="https://www.adobe.com/" target="_blank">
     <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
   </a>
-  <a href="https://www.unrealengine.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="Unreal Engine"/>
+<\p>
+     
+<h3 align="center">Development Tools</h3>
+<p align="center">
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  </a>
-   <a href="https://www.roblox.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Roblox%20Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio"/>
-  </a>
-  
-  <!-- NEW: Microsoft -->
-  <a href="https://www.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
+       <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vs" alt="VS Code"/>
   </a>
 </p>
+  <a href="https://www.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mc" alt="Microsoft"/>
+  </a>
+
+</table>
+
+ 
+  
 
 <br>
 
