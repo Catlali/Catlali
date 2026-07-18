@@ -139,11 +139,11 @@ Currently learning AI & MLLM development and exploring different programming lan
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
        <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vs" alt="VS Code"/>
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
   </a>
 </p>
   <a href="https://www.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mc" alt="Microsoft"/>
+    <img src="https://skillicons.dev/icons?i=windows" alt="Microsoft"/>
   </a>
 
 </table>
