@@ -19,8 +19,8 @@ Currently learning AI & MLLM development and exploring different programming lan
 
 <table>
   <tr>
-    <td width="70%">
-      <h2>⚡ what's going on right now?</h2>
+    <td width="70%" style="word-wrap: break-word; white-space: normal;">
+      <h2>📎What am i up to right now? 📎</h2>
       
       📎 I'm creating a new Roblox game and documenting the entire development process so others can learn how to build their own. I enjoy helping people develop their skills and grow within the tech community.
       
@@ -33,7 +33,6 @@ Currently learning AI & MLLM development and exploring different programming lan
     <td width="30%" align="center">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBiaGdjcXFiZ3k3d2h6Z3RlYWVuM3hhNDJiN2txemNnM2hzcnZwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/roOzBhll7lWDQr809f/giphy.gif" width="180" alt="Clippy">
       <br>
-      <em>Clippy approves! 📎</em>
     </td>
   </tr>
 </table>
