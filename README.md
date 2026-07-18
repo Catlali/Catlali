@@ -33,6 +33,7 @@ Currently learning AI & MLLM development and exploring different programming lan
 📎 I'm publishing a new series of tutorials covering mathematics for middle school and high school students, with the goal of making challenging concepts easier to understand.
 
 📎 I'm continuing one of my high school passion projects by creating free American Sign Language (ASL) lessons for people who can't afford traditional classes or don't have the time or access to attend them in person. My goal is to make ASL education more accessible to everyone.
+![clippy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBiaGdjcXFiZ3k3d2h6Z3RlYWVuM3hhNDJiN2txemNnM2hzcnZwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/roOzBhll7lWDQr809f/giphy.gif)
       
 <h2>📊 Top languages in my repository</h2>
   
