@@ -65,6 +65,29 @@ Currently learning AI & MLLM development and exploring different programming lan
 
 <h2>💻 Tech Inventory 💻</h2>
 
+<table>
+     <h3>Languages & Frameworks</h3>
+<a href="https://en.cppreference.com/c" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" alt="C"/>
+  </a>
+  <a href="https://en.cppreference.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
+  </a>
+     
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=r" alt="R"/>
+  </a>
+  
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Python"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+  </a>
+
+</table>
+
 <p align="center">
   <a href="https://github.com/">
     <img src="https://skillicons.dev/icons?i=git" />
@@ -77,19 +100,7 @@ Currently learning AI & MLLM development and exploring different programming lan
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   </a>
-        <!-- NEW: R -->
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  </a>
-  
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-
+   
  
  
   <!-- NEW: Blender -->
