@@ -17,24 +17,28 @@ Currently learning AI & MLLM development and exploring different programming lan
 
 <br>
 
-<!-- ============================================
-     DOUBLE COLUMNS
-     ============================================ -->
 <table>
   <tr>
-    <!-- LEFT COLUMN -->
-
-<h2> 📎What am i up to right now? 📎</h2>
+    <td width="70%">
+      <h2>⚡ what's going on right now?</h2>
       
-📎 I'm creating a new Roblox game and documenting the entire development process so others can learn how to build their own. I enjoy helping people develop their skills and grow within the tech community.
-
-📎 I build websites for local businesses, helping them establish a strong online presence. Supporting local communities and making technology more accessible is always my top priority.
-
-📎 I'm publishing a new series of tutorials covering mathematics for middle school and high school students, with the goal of making challenging concepts easier to understand.
-
-📎 I'm continuing one of my high school passion projects by creating free American Sign Language (ASL) lessons for people who can't afford traditional classes or don't have the time or access to attend them in person. My goal is to make ASL education more accessible to everyone.
-![clippy](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBiaGdjcXFiZ3k3d2h6Z3RlYWVuM3hhNDJiN2txemNnM2hzcnZwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/roOzBhll7lWDQr809f/giphy.gif)
+      📎 I'm creating a new Roblox game and documenting the entire development process so others can learn how to build their own. I enjoy helping people develop their skills and grow within the tech community.
       
+      📎 I build websites for local businesses, helping them establish a strong online presence. Supporting local communities and making technology more accessible is always my top priority.
+      
+      📎 I'm publishing a new series of tutorials covering mathematics for middle school and high school students, with the goal of making challenging concepts easier to understand.
+      
+      📎 I'm continuing one of my high school passion projects by creating free American Sign Language (ASL) lessons for people who can't afford traditional classes or don't have the time or access to attend them in person. My goal is to make ASL education more accessible to everyone.
+</td>
+    <td width="30%" align="center">
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDBiaGdjcXFiZ3k3d2h6Z3RlYWVuM3hhNDJiN2txemNnM2hzcnZwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/roOzBhll7lWDQr809f/giphy.gif" width="180" alt="Clippy">
+      <br>
+      <em>Clippy approves! 📎</em>
+    </td>
+  </tr>
+</table>
+
+
 <h2>📊 Top languages in my repository</h2>
   
 <h2>📁 stats of my repository</h2>
