@@ -48,20 +48,8 @@ Currently learning AI & MLLM development and exploring different programming lan
 
 <h2>📊 Top languages in my repository</h2>
   
-<h2>📁 stats of my repository</h2>
+<h2>📁 Stats of my repository</h2>
 
-<table>
-<h2>🌍 Languages </h2>
-     Im fluent in 
-     
-      🌞 English
-      
-      🌝 Spanish
-      
-      🌜 German (learning)
-      
-<br><br>
-</table>
 
 <h2>💻 Tech Inventory 💻</h2>
 
@@ -151,6 +139,22 @@ Currently learning AI & MLLM development and exploring different programming lan
   
 
 <br>
+
+
+<table>
+<h2>🌍 Languages </h2>
+     Im fluent in 
+     
+      🌞 English
+      
+      🌝 Spanish
+      
+      🌜 German (learning)
+      
+<br><br>
+</table>
+
+
 
 <!-- ============================================
      VISITOR COUNT
