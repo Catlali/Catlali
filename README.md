@@ -46,7 +46,7 @@ Currently learning AI & MLLM development and exploring different programming lan
 </table>
 
 
-<h2>📊 Top languages in my repository</h2>
+<h2>📊 Top repositorys</h2>
   
 <h2>📁 Stats of my repository</h2>
 
