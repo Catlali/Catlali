@@ -47,26 +47,8 @@ Currently learning AI & MLLM development and exploring different programming lan
 <br><br>
       
 <h2>📊 Top languages in my repository</h2>
-      
-<!-- Dynamic GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Catlali&layout=compact&theme=radical" alt="Top Languages"/>
-      </a>
-      
-<br><br>
-      
+  
 <h2>📁 stats of my repository</h2>
-      
-<!-- Dynamic GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Catlali&show_icons=true&theme=radical" alt="GitHub Stats"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 
 
 
@@ -99,6 +81,25 @@ Currently learning AI & MLLM development and exploring different programming lan
   </a>
   <a href="https://unity.com/" target="_blank">
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  </a>
+      <!-- NEW: R -->
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  </a>
+  
+  <!-- NEW: Blender -->
+  <a href="https://www.blender.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  </a>
+  
+  <!-- NEW: Adobe -->
+  <a href="https://www.adobe.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe"/>
+  </a>
+  
+  <!-- NEW: Microsoft -->
+  <a href="https://www.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
   </a>
 </p>
 
